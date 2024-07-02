@@ -1,6 +1,46 @@
-.App {
-  text-align: center;
+form{
+  border-style: solid;
+  width: 500px;
+  height: 400px;
+  padding: 50px;
+  
+  margin: auto; 
+
+  
 }
+h1{
+  text-align: center;
+  color: blue;
+  text-shadow: 1px 4px 5px sandybrown;
+}
+
+label{
+  margin-right: 25px;
+  
+  
+  
+}
+
+.submit
+{
+ color: rgb(231, 220, 242);
+ width: 75px;
+ background-color: rgb(2, 15, 15);
+ margin-left: 35%;
+ border-radius: 3px;
+ margin-top: 20px;
+ border-style: none;
+height: 30px;
+font-weight: bold;
+ 
+}
+
+
+
+
+
+
+
 
 .App-logo {
   height: 40vmin;
